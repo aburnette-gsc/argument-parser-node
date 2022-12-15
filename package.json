@@ -1,0 +1,22 @@
+{
+  "name": "argument-parser-node",
+  "version": "1.0.0",
+  "description": "Make it easy to parse command line arguments in your script with a simple API and great documentation and examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "arguments",
+    "argument",
+    "command-line",
+    "terminal",
+    "parse",
+    "parser",
+    "arguments",
+    "command-line",
+    "arguments"
+  ],
+  "author": "Calcaware",
+  "license": "ISC"
+}
